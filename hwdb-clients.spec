@@ -10,7 +10,6 @@ Requires:	drakxtools >= 10-32mdk, dmidecode sane-backends, perl-libwww-perl
 Provides:	testzilla-clients
 Obsoletes:	testzilla-clients
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 Clients to dialog with a hardware database.
