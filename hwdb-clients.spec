@@ -1,7 +1,7 @@
 Summary:	Hardware database clients
 Name:		hwdb-clients
 Version:	0.18
-Release:	12
+Release:	13
 License:	GPLv2
 Group:		System/Base
 Url:		http://qa.mandriva.com/
