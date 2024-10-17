@@ -4,7 +4,7 @@ Version:	0.18
 Release:	16
 License:	GPLv2
 Group:		System/Base
-Url:		http://qa.mandriva.com/
+Url:		https://qa.mandriva.com/
 Source0:	%{name}-%{version}.tar.bz2
 BuildArch:	noarch
 Requires:	drakxtools
